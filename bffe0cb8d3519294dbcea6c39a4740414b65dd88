@@ -1,0 +1,1 @@
+{"jobID":"8ed90fe3-9b21-7825-8ee8-c2dc04b61a6c","spec":{"type":"policy","cause":{"Message":"","User":"olivier \u003colivier@example.com\u003e"},"spec":{"default:deployment/sample-app":{"add":{"automated":"true"},"remove":{}}}},"result":null}
